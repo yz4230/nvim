@@ -10,4 +10,7 @@ return {
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.recipes.ai" },
   { import = "astrocommunity.completion.copilot-lua-cmp" },
+  { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
+  { import = "astrocommunity.fuzzy-finder.telescope-nvim" },
+  { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
 }
