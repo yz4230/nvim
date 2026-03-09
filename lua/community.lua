@@ -14,4 +14,5 @@ return {
   { import = "astrocommunity.fuzzy-finder.telescope-nvim" },
   { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
   { import = "astrocommunity.pack.tailwindcss" },
+  { import = "astrocommunity.pack.typescript" },
 }
