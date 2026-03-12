@@ -7,12 +7,14 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
   -- import/override with your plugins folder
-  { import = "astrocommunity.pack.go" },
-  { import = "astrocommunity.recipes.ai" },
-  { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
+  { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.fuzzy-finder.telescope-nvim" },
-  { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
+  { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.recipes.ai" },
+  { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
 }
