@@ -14,6 +14,7 @@ return {
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
 }
