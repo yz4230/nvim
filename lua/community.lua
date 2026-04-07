@@ -10,6 +10,7 @@ return {
   { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
   { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.fuzzy-finder.telescope-nvim" },
+  { import = "astrocommunity.motion.nvim-surround" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.tailwindcss" },
