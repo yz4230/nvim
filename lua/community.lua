@@ -17,5 +17,6 @@ return {
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.zig" },
   { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
 }
